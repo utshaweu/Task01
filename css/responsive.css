@@ -1,0 +1,229 @@
+/* ====================================================================================================
+                                        Extra Small Device
+====================================================================================================== */
+@media(max-width: 575.98px){
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  button:focus {
+    outline: 0;
+  }
+  .navbar{
+    z-index: 9999;
+  }
+  .navbar-toggler i{
+    color: #222222;
+    font-size: 28px;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #fdf6ee;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  .apply-btn{
+    margin-top: 20px;
+  }
+  .banner-bg{
+    top: 37%;
+  }
+  .banner-content h1{
+    font-size: 38px;
+  }
+  .mr1{
+    margin-bottom: 30px;
+  }
+  .mr2{
+    margin-bottom: 30px;
+  }
+  .online-part h4{
+    left: 110px;
+  }
+  .about-content h2{
+    margin-top: 25px;
+  }
+  .footer-icon{
+    padding-bottom: 20px;
+  }
+  .footer-content h6 {
+    margin-bottom: 30px;
+  }
+  #footer{
+    padding-bottom: 60px;
+  }
+  .link{
+    text-align: center;
+  }
+  .copyright p{
+    text-align: center;
+  }
+  .shape-one img{
+    display: none;
+  }
+  @media(width:320px){
+    .title h2{
+      font-size: 37px;
+    }
+    .online-part h4 {
+      left: 22px;
+    }
+    .play-btn i{
+      font-size: 20px;
+      width: 50px;
+      height: 50px;
+      line-height: 50px;
+    }
+  }
+  @media(width:575px){
+    .online-part h4 {
+      left: 163px;
+  }
+  }
+}
+/* =======================================================================================================
+                                                  Small Device
+========================================================================================================= */
+@media(min-width:576px) and (max-width:767.98px){
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  button:focus {
+    outline: 0;
+  }
+  .navbar{
+    z-index: 9999;
+  }
+  .navbar-toggler i{
+    color: #222222;
+    font-size: 28px;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #fdf6ee;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  .apply-btn{
+    margin-top: 20px;
+  }
+  .online-part img{
+    width: 100%;
+  }
+  .online-part h3{
+    font-size: 20px;
+  }
+  .mr1 {
+    padding-top: 20px;
+    padding-bottom: 50px;
+  }
+  .mr2 {
+  padding-top: 20px;
+  padding-bottom: 48px;
+  }
+  .mr3{
+    margin-top: 30px;
+  }
+  .online-part h4 {
+    font-size: 20px;
+    left: 38px;
+    bottom: 34px;
+  }
+  .about-content h2{
+    margin-top: 20px;
+  }
+  .mr9 span{
+    font-size: 14px;
+  }
+  #footer{
+    padding-bottom: 40px;
+  }
+  .copyright p{
+    text-align: center;
+  }
+  .link{
+    text-align: center;
+  }
+  .shape-one img{
+    display: none;
+  }
+}
+/* =======================================================================================================
+                                                Medium Device 
+==========================================================================================================*/
+@media(min-width:768px) and (max-width:991.98px){
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  button:focus {
+    outline: 0;
+  }
+  .navbar{
+    z-index: 9999;
+  }
+  .navbar-toggler i{
+    color: #222222;
+    font-size: 28px;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #fdf6ee;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  .apply-btn{
+    margin-top: 20px;
+  }
+  .banner-content h1{
+    margin-right: 185px;
+  }
+  .banner-content p{
+    margin-right: 214px;
+  }
+  .mr3{
+    margin-top: 30px;
+  }
+  .online-part h4{
+    left: 42px;
+  }
+  .about-content h2{
+    margin-top: 20px;
+  }
+  #footer{
+    padding-bottom: 40px;
+  }
+  .copyright p{
+    text-align: center;
+  }
+  .link{
+    text-align: center;
+  }
+  .shape-one img{
+    display: none;
+  }
+}
+/* =================================================================================================
+                                             Large Device
+==================================================================================================== */
+@media(min-width:992px) and (max-width:1199.98px){
+  .banner-bg{
+    top: 39%;
+  }
+  .mr1 {
+    padding-top: 10px;
+    padding-bottom: 25px;
+  }
+  .online-part h3{
+    padding-top: 0;
+  }
+  .mr2 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .online-part h4 {
+    left: 20px;
+    bottom: 12px;
+  }
+  .shape-one img{
+    display: none;
+  }
+}
